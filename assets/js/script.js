@@ -26,18 +26,18 @@ $(document).ready(function() {
 
     // jQuery Function Number 4 
     $('#navbar-item1').click(function(){
-   		window.location.href='file:///Users/quynhuong/Desktop/wdd_final_project/view2.html';
+   		window.location.href='https://quynhuong.github.io/view2.html';
 
     });
     $('#navbar-item2').click(function(){
-   		window.location.href='file:///Users/quynhuong/Desktop/wdd_final_project/view3.html';
+   		window.location.href='https://quynhuong.github.io/view3.html';
 	})
 	$('#navbar-item3').click(function(){
-   		window.location.href='file:///Users/quynhuong/Desktop/wdd_final_project/view4.html';
+   		window.location.href='https://quynhuong.github.io/view4.html';
 
 	})
 	$('#logo').click(function(){
-   		window.location.href='file:///Users/quynhuong/Desktop/wdd_final_project/index.html';
+   		window.location.href='https://quynhuong.github.io/index.html';
 
 	})
 
