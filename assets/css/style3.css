@@ -1,0 +1,132 @@
+body 
+	{
+		margin-top:0px;
+		margin-left:0px;
+		margin-right:0px;
+		margin-bottom:0px;
+		background: #F7F7F7;
+		font-family: 'Nixie One', cursive;
+	}
+
+#navbar {
+	position: fixed;
+	margin: 0 auto;
+	padding: 10px 0px;
+	background: #FFE011;
+	width: 100%;
+	z-index: 13;
+}
+
+#logo {
+	display: block;
+	margin: 0 auto;
+	width: 20%;
+	z-index: 14;
+}
+
+#logo:hover {
+	cursor: pointer;
+	transition-property: 0.8s;
+}
+
+#navbar2 {
+	position: fixed;
+	margin-top: 74px;
+	background: #111111;
+	width: 100%;
+	height: 30px;
+	padding: -20px 0px;
+	margin-top: 73px;
+	z-index: 15;
+}
+
+#navbar-item1 {
+	position: fixed;
+	color: #FFE011;
+	padding-left: 505px;
+	font-size: 12pt;
+	padding-top: 4px;
+	letter-spacing: 1.5px;
+	z-index: 17;
+}
+
+#navbar-item1:hover {
+	cursor: pointer;
+	font-weight: 1000;
+	color: #50DAFF;
+	transition-property: 0.8s;
+}
+
+#navbar-item2 {
+	position: relative;
+	color: #FFE011;
+	font-size: 12pt;
+	text-align: center;
+	padding-top: 4px;
+	letter-spacing: 1.5px;
+	z-index: 16;
+}
+
+#navbar-item2:hover {
+	cursor: pointer;
+	font-weight: 1000;
+	color: #50DAFF;
+	transition-property: 0.8s;
+}
+
+#navbar-item3 {
+	position: fixed;
+	color: #FFE011;
+	font-size: 12pt;
+	padding-top: -29px;
+	margin-top: -18px;
+	margin-left: 700px;
+	letter-spacing: 1.5px;
+	z-index: 18;
+}
+
+#navbar-item3:hover {
+	cursor: pointer;
+	font-weight: 1000;
+	color: #50DAFF;
+	transition-property: 0.8s;
+}
+
+#about-me {
+	font-size: 16pt;
+	text-align: justify;
+	margin-top: -300px;
+	margin-left: 550px;
+	line-height: 1.7;
+}
+
+#self-photo {
+	display: inline-block;
+	margin-left: 150px;
+	padding-top: 150px;
+	padding-bottom: -200px;
+}
+
+#quote {
+	text-align: center;
+	margin-top: 130px;
+}
+
+#quote:hover {
+	cursor: pointer;
+	font-weight: 700;
+}
+
+.change-color {
+	color: #50DAFF;
+}
+
+
+
+
+
+
+
+
+
+
